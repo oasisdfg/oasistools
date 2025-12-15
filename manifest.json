@@ -1,0 +1,21 @@
+{
+  "hubVersion": "1.0.0",
+  "lastUpdated": "2025-12-15",
+  "programs": [
+    {
+      "id": "example-program",
+      "name": "Example Program",
+      "description": "This is a placeholder - replace with your actual programs",
+      "icon": "icons/default.png",
+      "repo": "oasisdfg/example-program",
+      "category": "Utilities",
+      "featured": false
+    }
+  ],
+  "categories": [
+    "Utilities",
+    "Productivity",
+    "Games",
+    "Tools"
+  ]
+}
