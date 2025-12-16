@@ -6,7 +6,7 @@
       "id": "loginmanager",
       "name": "Login Manager",
       "description": "Securely store and manage your login credentials",
-      "icon": "icons/loginmanager.png",
+      "icon": "icons/LoginManager.png",
       "repo": "oasisdfg/LoginManager",
       "category": "Utilities",
       "featured": true
