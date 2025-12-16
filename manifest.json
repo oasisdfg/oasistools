@@ -10,6 +10,15 @@
       "repo": "oasisdfg/LoginManager",
       "category": "Utilities",
       "featured": true
+    },
+    {
+      "id": "xannopti",
+      "name": "xannopti",
+      "description": "A tweaking tool with a wide range of system enhancing performance tweaks",
+      "icon": "icons/xannopti.png",
+      "repo": "oasisdfg/xannopti",
+      "category": "Utilities",
+      "featured": true
     }
   ],
   "categories": [
