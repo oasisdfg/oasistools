@@ -19,6 +19,15 @@
       "repo": "oasisdfg/xannopti",
       "category": "Utilities",
       "featured": true
+    },
+    {
+      "id": "hardwaremonitor",
+      "name": "Hardware Monitor",
+      "description": "Light weight system monitor for Windows featuring real-time CPU, GPU, RAM, network, and storage monitoring",
+      "icon": "icons/hardwaremonitor.png",
+      "repo": "oasisdfg/Hardware-Monitor",
+      "category": "Utilities",
+      "featured": true
     }
   ],
   "categories": [
