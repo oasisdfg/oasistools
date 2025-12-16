@@ -1,6 +1,6 @@
 # oasistools
 
-A lightweight program manager for Windows.  Install, update, and manage Oasis tools from one place. 
+A lightweight program manager for Windows.  Install, update, and manage oasis tools from one place. 
 
 ## Download
 
