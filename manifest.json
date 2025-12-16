@@ -1,15 +1,15 @@
 {
   "hubVersion": "1.0.0",
-  "lastUpdated": "2025-12-15",
+  "lastUpdated": "2025-12-16",
   "programs": [
     {
-      "id": "example-program",
-      "name": "Example Program",
-      "description": "This is a placeholder - replace with your actual programs",
-      "icon": "icons/default.png",
-      "repo": "oasisdfg/example-program",
+      "id": "loginmanager",
+      "name": "Login Manager",
+      "description": "Securely store and manage your login credentials",
+      "icon": "icons/loginmanager.png",
+      "repo": "oasisdfg/LoginManager",
       "category": "Utilities",
-      "featured": false
+      "featured": true
     }
   ],
   "categories": [
