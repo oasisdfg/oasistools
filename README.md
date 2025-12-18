@@ -16,7 +16,6 @@ Get the latest version from the [Releases](https://github.com/oasisdfg/oasistool
 | Program | Description |
 |---------|-------------|
 | Login Manager | Securely store and manage your login credentials |
-| xannopti | System tweaking tool with performance enhancements |
 | Hardware Monitor | Real-time CPU, GPU, RAM, network, and storage monitoring |
 
 ## Requirements
